@@ -13,7 +13,7 @@ This notebook is optimized to be executed on Google Colab ([(https://colab.resea
 
 ### Acknowledgements
 
-The notebook contains excerpts from [A complete ML pipeline (Fast.ai)](https://www.kaggle.com/qitvision/a-complete-ml-pipeline-fast-ai/comments#470204) .
+The notebook contains excerpts from [A complete ML pipeline (Fast.ai)](https://www.kaggle.com/qitvision/a-complete-ml-pipeline-fast-ai/comments#470204) and was inspired by fast.ai's online course [(Practical Deep Learning for Coders, v3)](https://course.fast.ai/).
 
 ***
 
