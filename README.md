@@ -13,7 +13,7 @@ This notebook is optimized to be executed on Google Colab ([(https://colab.resea
 
 ### Acknowledgements
 
-The notebook contains excerpts from [A complete ML pipeline (Fast.ai)](https://www.kaggle.com/qitvision/a-complete-ml-pipeline-fast-ai/comments#470204) and was inspired by fast.ai's online course [(Practical Deep Learning for Coders, v3)](https://course.fast.ai/).
+The notebook contains excerpts from [A complete ML pipeline (Fast.ai)](https://www.kaggle.com/qitvision/a-complete-ml-pipeline-fast-ai/comments#470204),[Complete beginner's guide](https://www.kaggle.com/gomezp/complete-beginner-s-guide-eda-keras-lb-0-93), and was inspired by fast.ai's online course [(Practical Deep Learning for Coders, v3)](https://course.fast.ai/).
 
 ***
 
@@ -24,6 +24,11 @@ Metastasic involvement in lymph nodes is an important indicator in (breast) canc
 The histopathological images are glass slides containing a tissue section of the lymph node stained with hematoxylin and eosin (H&E). This method forms the basis of contemporary cancer diagnosis. Hematoxylin has a deep blue-purple color and stains nucleic acids. Eosin is pink and stains in a typical tissue the cytoplasm and extracellular matrix in different shades of pink. On the basis of nuclei, different cell-type and cancer-type specific patterns can be shown.
 
 As an illustration the next figure shows an example of metastasic region in the lymph node.([Camelyon17](https://camelyon17.grand-challenge.org/Background/))
+
+Low-resolution  | Mid-resolution | High-resolution
+  ------------- | ------------- | -------------
+  ![alt](https://raw.githubusercontent.com/myrmsch/Image_Learning_Medical_Image_Classification/master/sample_images/example_low_resolution.png)  | ![alt](https://raw.githubusercontent.com/myrmsch/Image_Learning_Medical_Image_Classification/master/sample_images/example_mid_resolution.png) | ![alt](https://raw.githubusercontent.com/myrmsch/Image_Learning_Medical_Image_Classification/master/sample_images/example_high_resolution.png)
+
 
 
 
