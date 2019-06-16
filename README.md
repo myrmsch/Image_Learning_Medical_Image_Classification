@@ -6,7 +6,7 @@ The kaggle competition Histopathologic Cancer Detection states the problem of cr
 
 ***
 
-[![Open In Colab](https://colab.research.google.com/github/myrmsch/Image_Learning_Medical_Image_Classification/blob/master/Image_Learning_Medical_Image_Classification_Applied_image_classification_Histopathologic_Cancer_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/myrmsch/Image_Learning_Medical_Image_Classification/blob/master/Image_Learning_Medical_Image_Classification_Applied_image_classification_Histopathologic_Cancer_Detection.ipynb)
 
 This notebook is optimized to be executed on Google Colab ([(https://colab.research.google.com).]((https://colab.research.google.com).))
 
